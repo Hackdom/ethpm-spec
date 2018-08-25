@@ -115,6 +115,6 @@
   },
   "build_dependencies": {
     "owned": "ipfs://QmbeVyFLSuEUxiXKwSsEjef6icpdTdA4kGG9BcrJXKNKUW",
-    "safe-math-lib": "ipfs://QmWgvM8yXGyHoGWqLFXvareJsoCZVsdrpKNCLMun3RaSJm"
+    "safe-math-lib": "ipfs://QmWzBq216uvtfHsibjR9SytjSeBWigGJmxv5PL5HJZsuDd"
   }
 }
